@@ -5,3 +5,4 @@
 
 @media(max-width:600px){.track-window{height:48svh;top:49%;mask-image:linear-gradient(transparent,#000 15%,#000 85%,transparent)}#track{top:50%;left:50%}.node{width:270px}.label{bottom:auto;top:-1px;right:calc(50% + 24px);width:105px;text-align:right;font-size:11px}.value{top:-3px;left:calc(50% + 24px);width:105px;text-align:left;font-size:16px}.game-title h2{font-size:26px}.game-bottom{bottom:65px}.game-title{padding-top:10px}}
 @media(max-width:600px){#track{left:24%}.label{right:auto;left:calc(50% + 24px);top:-20px;width:150px;text-align:left}.value{top:1px;width:150px}}
+.brand{font-size:26px;letter-spacing:-1.3px}@media(max-width:600px){.brand{font-size:23px}#language{margin-right:8px;max-width:105px}}
